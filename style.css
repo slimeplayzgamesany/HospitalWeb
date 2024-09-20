@@ -1,0 +1,184 @@
+.box {
+    height: 200px;
+}
+
+.img1 {
+    height:160px;
+    
+}
+
+.search1 {
+    margin-top: 40px;
+    width: 500px;
+    height: 40px;
+}
+
+.search2 {
+    margin-top: 40px;
+    height: 40px;
+}
+
+.one {
+    margin-left: 16%;
+}
+
+.hover{
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    
+}
+
+.hover:hover{
+    background-color: #0D7C66;
+}
+
+.box2{ 
+    margin-top: 20px;
+    background-color: #0D7C66;
+    height: 80px;
+}
+
+.size1 {
+    height: 80px;
+    margin-left: 17%;
+}
+
+.text1 {
+    color: white;
+    margin-top: 20px;
+}
+
+.button1 {
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.box3 {
+    height: auto;
+    padding: 10px;
+
+    background-color: grey;
+    
+}
+.box3Parent{
+    display: flex;
+    width: 60%;
+    flex-wrap: wrap;
+    justify-content: center ;
+    gap: 20px;
+}
+
+hr {
+    margin: 0px;
+}
+
+.minibox{
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    border-radius: 10px;
+    
+}
+
+.img3 {
+    font-size: 100px;
+    color: #0D7C66;
+    
+
+}
+
+.box4 {
+    height: 150px;
+    background-color: white;
+
+}
+
+.med{
+    position: relative;
+    left: 400px;
+    margin-top: 10px;
+    color: #0D7C66;
+}
+
+.minibox1{
+    height: 70px;
+    width: 650px;
+    background-color: #0D7C66;
+    border-radius: 5px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.box4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center ;
+    gap: 10px;
+    width: 70%;
+
+}
+
+.box5{
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    background-color: gainsboro;
+    justify-content: center;
+}
+
+.minibox3{
+ width: 650px;
+    
+}
+
+.green {
+    color: #0D7C66;
+}
+
+.box6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 200px;
+    background-color: white;
+
+}
+
+.minibox4 {
+    width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.fix1 {
+
+    margin-top: 70px;
+}
+
+.footer{
+    height: 700px;
+    background-color: #0D7C66;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.minibox5 {
+    width: 435px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    margin-top: 30px;
+}
+
+.white {
+    color: white;
+    font-size: x-large;
+   
+}
+
+.resize {
+    width: 435px;
+}
